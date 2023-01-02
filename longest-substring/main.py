@@ -23,5 +23,3 @@ class Solution:
             return len(s)
 
         return self.divide_and_conquer(s, k, 0, len(s) - 1)
-
-        
