@@ -14,6 +14,7 @@ Esse repositório contêm um conjunto de exercícios reoslvidos sobre o conteúd
 
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Longest substring with at least k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
