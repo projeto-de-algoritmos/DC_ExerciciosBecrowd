@@ -27,8 +27,4 @@ Apenas deve rodar os códigos dos exercícios dentro da plataforma que o link in
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+A apresentação está encontrada dentro do próprio repositório :)
